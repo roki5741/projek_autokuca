@@ -1,0 +1,8 @@
+KORISNIK: dado | GRESKA: program ne dozvoljav listanje kod vozila
+
+KORISNIK: dado | GRESKA: ne mogu izaci ako nesto krivo stisnem
+
+KORISNIK: dado | GRESKA: opet nema tu 
+
+KORISNIK: dado | GRESKA: asindiawniudniaw
+

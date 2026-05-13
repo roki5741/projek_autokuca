@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\student\Desktop\Projekt_dk_ac\pojekt-dk-ac\main.c(468,9): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\student\Desktop\Projekt_dk_ac\pojekt-dk-ac\main.c(518,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\student\Desktop\Projekt_dk_ac\pojekt-dk-ac\main.c(520,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\student\Desktop\Projekt_dk_ac\pojekt-dk-ac\main.c(582,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\student\Desktop\Projekt_dk_ac\pojekt-dk-ac\main.c(901,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\student\Desktop\Projekt_dk_ac\pojekt-dk-ac\main.c(909,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+LINK : fatal error LNK1168: cannot open C:\Users\student\Desktop\Projekt_dk_ac\pojekt-dk-ac\Debug\pojekt-dk-ac.exe for writing
