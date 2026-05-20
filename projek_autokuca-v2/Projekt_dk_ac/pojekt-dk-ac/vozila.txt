@@ -1,0 +1,2 @@
+1 bmw 318i 2018 20000.00 180000 benzin jako dobro vozilo
+1 bmw 120 2004 20000.00 20 dizel da
